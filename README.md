@@ -26,8 +26,10 @@ However, when I attempted to create a Retell agent where retell llm response age
 =>Server error while generating id of the Retell LLM Response Engine.
 ![Screenshot 2025-04-25 035905](https://github.com/user-attachments/assets/610b47ec-597e-49d4-8c6e-65e4f53227b3)
 
-I tried the values for LLM Engine Id and voice id but that too is throwing 500 Server error
-![Screenshot 2025-04-25 040002](https://github.com/user-attachments/assets/673c7e87-02a4-4cbd-86b2-8cfa41ced8fe)
+**HITTING REQUEST ON POSTMAN AT THE API WHICH I CREATED**
 
-=>Retell AI Page
-![Screenshot 2025-04-25 042633](https://github.com/user-attachments/assets/bcc03bb3-ecdd-450a-bff2-527390dae4a9)
+![Screenshot 2025-04-25 111307](https://github.com/user-attachments/assets/c2114c39-5bf9-43b5-853d-302c09c2bf24)
+
+**RETELL API DASHBOARD**
+
+![Screenshot 2025-04-25 111236](https://github.com/user-attachments/assets/d7f5db10-cbad-474a-b57e-90be1f4f6665)
