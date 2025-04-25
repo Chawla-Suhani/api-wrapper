@@ -20,12 +20,6 @@ nodemon index.js
 =>vapi Dashboard . Agent created successfully
 ![Screenshot 2025-04-25 032037](https://github.com/user-attachments/assets/6fabfe35-8276-4a64-b4fd-6cd8636049ef)
 
-However, when I attempted to create a Retell agent where retell llm response agent id is required but while generating that id I encountered a 500 - Internal Server Error. This error seems to be server-related, as I have verified that the request payload and headers are correct based on the API documentation
-![Screenshot 2025-04-25 041633](https://github.com/user-attachments/assets/754517c9-3a04-4c60-b612-ad1b103063fc)
-
-=>Server error while generating id of the Retell LLM Response Engine.
-![Screenshot 2025-04-25 035905](https://github.com/user-attachments/assets/610b47ec-597e-49d4-8c6e-65e4f53227b3)
-
 **HITTING REQUEST ON POSTMAN AT THE API WHICH I CREATED**
 
 ![Screenshot 2025-04-25 111307](https://github.com/user-attachments/assets/c2114c39-5bf9-43b5-853d-302c09c2bf24)
